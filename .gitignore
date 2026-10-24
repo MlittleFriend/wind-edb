@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.evidence.json
+probe*.xlsx
+query*.json
+pool*.json
+检查.json
+inspect*.json
